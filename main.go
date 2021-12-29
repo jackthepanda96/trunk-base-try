@@ -15,4 +15,5 @@ func main() {
 	fmt.Println("Update 7")
 	fmt.Println("Fitur 2-1")
 	fmt.Println("Fitur 2-2")
+	fmt.Println("Fitur 2-3")
 }
