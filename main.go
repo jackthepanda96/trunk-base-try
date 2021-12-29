@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Update 2")
 	fmt.Println("Update 3")
 	fmt.Println("Update 4")
+	fmt.Println("Update 5")
 }
