@@ -12,5 +12,9 @@ func main() {
 	fmt.Println("Fitur 1-1")
 	fmt.Println("Fitur 1-2")
 	fmt.Println("Fitur 1-3")
+<<<<<<< HEAD
 	fmt.Println("Update 7")
+=======
+	fmt.Println("Fitur 2-1")
+>>>>>>> a47da87 (Fitur2 1)
 }
